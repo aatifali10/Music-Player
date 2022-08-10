@@ -1,0 +1,25 @@
+.Container {
+  display: flex;
+}
+.row {
+  width: 100%;
+  /* background-color: rgb(23, 190, 163); */
+  padding-left: 50px;
+  font-size: 30px;
+  background-image: url(flat-background-coding-vector-12294067.jpg);
+}
+
+.content {
+  margin-left: 25px;
+}
+h1 {
+  text-align: center;
+}
+img {
+  height: 100vh;
+}
+.content {
+  width: 30%;
+  background-position: fixed;
+  background-color: aqua;
+}
